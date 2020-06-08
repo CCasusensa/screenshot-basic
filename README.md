@@ -1,7 +1,7 @@
-Forked from: https://github.com/citizenfx/screenshot-basic
+Forked from: https://github.com/citizenfx/screenshot-basic 、 https://github.com/jonassvensson4/screenshot-basic
 <br>Added headers, crop options and imgur support
 
-My [mugshot](https://github.com/jonassvensson4/mugshot/blob/master/client.js#L33) resource utilizes the crop options, if you're interested in that you can have a look in that resource.
+jonassvensson4 [mugshot](https://github.com/jonassvensson4/mugshot/blob/master/client.js#L33) resource utilizes the crop options, if you're interested in that you can have a look in that resource.
 #### JavaScript example
 ```javascript
 // Imgur client ID
